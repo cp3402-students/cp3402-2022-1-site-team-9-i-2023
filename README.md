@@ -27,8 +27,8 @@ The website adheres to the standard structure guidelines of WordPress. Creating 
 The following is a list of folders in files contained in the repository and their purpose with links provided.
 
 1. [wp-content](/wp-content): This is the current WordPress content folder and contains our theme files
-2. [deployment.md](deployment.md): This deployment documentation gives an overview of our local development (and tools
-   used) and the deployment of our site
+2. [development.md](development.md): This development documentation gives an overview of our local development (and tools
+   used) and the development of our site
 3. [site.md](site.md): This site documentation gives an overview on our WordPress site, plugins, features, and how to
    edit the site.
 4. [theme.md](theme.md): Our working documentation on the custom theme, its origin and creation, important features, and
