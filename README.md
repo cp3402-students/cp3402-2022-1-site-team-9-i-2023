@@ -8,10 +8,6 @@
 - Ikrom Arifdjanov
 - Ayazhan Seitzhan
 
-## Website hosting server information
-- Hosting environment: *pending*
-- Production site: *pending*
-- Staging site: *pending*
 
 ## Wordpress information:
 - Wordpress Version: 6.2.1
