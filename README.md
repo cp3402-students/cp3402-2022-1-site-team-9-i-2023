@@ -11,7 +11,6 @@
 
 ## Wordpress information:
 - Wordpress Version: 6.2.1
-- Theme:
 
 ## Plugins used:
 - Elementor
